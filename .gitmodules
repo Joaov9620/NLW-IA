@@ -1,3 +1,6 @@
 [submodule "BACKEND-NLW-IA"]
 	path = BACKEND-NLW-IA
 	url = https://github.com/Joaov9620/BACKEND-NLW-IA.git
+[submodule "NLW-FRONTEND"]
+	path = FRONT-NLW-IA
+	url = https://github.com/Joaov9620/FRONT-NLW-IA.git
